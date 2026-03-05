@@ -15,26 +15,13 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-# Virtual env
-.venv/
-.venv310/
 
-# Python cache
-__pycache__/
-*.pyc
-
-# audio output
+# Audio output
 *.mp3
 *.wav
 
-# installers
+# Installers
 *.exe
 
-# models
+# Large AI models
 models/
-
-# vscode
-.vscode/
-
-models/
-*.exe
